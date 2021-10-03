@@ -1,0 +1,6 @@
+framework module Pods_Mausaam {
+  umbrella header "Pods-Mausaam-umbrella.h"
+
+  export *
+  module * { export * }
+}
